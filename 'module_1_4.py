@@ -1,0 +1,7 @@
+my_string=input("Как зовут твоего сына? " )
+print(len(my_string))
+print("Как зовут твоего сына?".upper())
+print("Как зовут твоего сына?".lower())
+print('Как зовут твоего сына?'.replace( ' ',''))
+print(my_string[0])
+print(my_string[4])
