@@ -1,10 +1,8 @@
-name="Name:Aliya"
-print(name)
-age="age:38"
-print(age)
+name="Aliya"
+print('Name: ',name)
 age=38
-add_age=2
-new_age=age+add_age
-print("new_age:",new_age)
+print ("Age:", age)
+age=age+2
+print("new_age:",age)
 is_student="True"
 print("is_student:",is_student)
